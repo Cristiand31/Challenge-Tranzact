@@ -1,0 +1,12 @@
+pageobjects/pageSale.java
+ pageobjects.pageSale
+tools/drivers.java
+ tools.drivers
+pageobjects/pagePrincipal.java
+ pageobjects.pagePrincipal
+pageobjects/pageCart.java
+ pageobjects.pageCart
+pageobjects/pageOrder.java
+ pageobjects.pageOrder
+test/Runner.java
+ test.Runner

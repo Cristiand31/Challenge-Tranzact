@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.Runner" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-18T04:20:28" hostname="DESKTOP-RO7PRR1" time="37.19">
+  <properties/>
+  <testcase name="inicio" classname="test.Runner" time="37.19"/>
+  <system-out><![CDATA[projectPath
+]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 118.0.5993.70 (e52f33f30b91b4ddfad649acddc39ab570473b86-refs/branch-heads/5993@{#1216}) on port 33066
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+oct 17, 2023 11:20:30 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+]]></system-err>
+</testsuite>
